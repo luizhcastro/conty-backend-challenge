@@ -1,0 +1,3992 @@
+[
+  {
+    "id": "creator_001",
+    "name": "William Brown",
+    "tags": [
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "US"
+    ],
+    "avg_views": 4718958,
+    "ctr": 0.068,
+    "cvr": 0.075,
+    "price_min": 341724,
+    "price_max": 410349,
+    "reliability_score": 0.569
+  },
+  {
+    "id": "creator_002",
+    "name": "Camila Silva",
+    "tags": [
+      "fintech",
+      "fitness",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 661307,
+    "ctr": 0.13,
+    "cvr": 0.03,
+    "price_min": 147376,
+    "price_max": 198140,
+    "reliability_score": 0.505
+  },
+  {
+    "id": "creator_003",
+    "name": "Daniel Thomas",
+    "tags": [
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "PT"
+    ],
+    "avg_views": 4038925,
+    "ctr": 0.035,
+    "cvr": 0.032,
+    "price_min": 350990,
+    "price_max": 442266,
+    "reliability_score": 0.773
+  },
+  {
+    "id": "creator_004",
+    "name": "Zoe Jones",
+    "tags": [
+      "fitness",
+      "fashion",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "AR"
+    ],
+    "avg_views": 2655134,
+    "ctr": 0.084,
+    "cvr": 0.052,
+    "price_min": 344496,
+    "price_max": 429600,
+    "reliability_score": 0.719
+  },
+  {
+    "id": "creator_005",
+    "name": "Bruna Silva",
+    "tags": [
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK",
+      "US"
+    ],
+    "avg_views": 3833976,
+    "ctr": 0.05,
+    "cvr": 0.051,
+    "price_min": 63530,
+    "price_max": 158138,
+    "reliability_score": 0.834
+  },
+  {
+    "id": "creator_006",
+    "name": "Emily Johnson",
+    "tags": [
+      "fitness",
+      "tech",
+      "travel",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "CO"
+    ],
+    "avg_views": 2597651,
+    "ctr": 0.076,
+    "cvr": 0.048,
+    "price_min": 351783,
+    "price_max": 386894,
+    "reliability_score": 0.555
+  },
+  {
+    "id": "creator_007",
+    "name": "Michael Ferreira",
+    "tags": [
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 945968,
+    "ctr": 0.129,
+    "cvr": 0.008,
+    "price_min": 367853,
+    "price_max": 383929,
+    "reliability_score": 0.568
+  },
+  {
+    "id": "creator_008",
+    "name": "Zoe Rodrigues",
+    "tags": [
+      "tech",
+      "fintech",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "US",
+      "PT"
+    ],
+    "avg_views": 3575670,
+    "ctr": 0.091,
+    "cvr": 0.076,
+    "price_min": 191277,
+    "price_max": 244604,
+    "reliability_score": 0.917
+  },
+  {
+    "id": "creator_009",
+    "name": "Raquel Silva",
+    "tags": [
+      "fintech",
+      "fitness",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 4979261,
+    "ctr": 0.03,
+    "cvr": 0.048,
+    "price_min": 364646,
+    "price_max": 375558,
+    "reliability_score": 0.537
+  },
+  {
+    "id": "creator_010",
+    "name": "Mason Ribeiro",
+    "tags": [
+      "fashion",
+      "fintech",
+      "gaming",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 4456513,
+    "ctr": 0.106,
+    "cvr": 0.028,
+    "price_min": 176341,
+    "price_max": 237995,
+    "reliability_score": 0.955
+  },
+  {
+    "id": "creator_011",
+    "name": "James Melo",
+    "tags": [
+      "fintech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "DE"
+    ],
+    "avg_views": 1397508,
+    "ctr": 0.095,
+    "cvr": 0.028,
+    "price_min": 97153,
+    "price_max": 116474,
+    "reliability_score": 0.675
+  },
+  {
+    "id": "creator_012",
+    "name": "William Jones",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "FR"
+    ],
+    "avg_views": 246625,
+    "ctr": 0.023,
+    "cvr": 0.028,
+    "price_min": 327289,
+    "price_max": 340297,
+    "reliability_score": 0.883
+  },
+  {
+    "id": "creator_013",
+    "name": "Emma Brown",
+    "tags": [
+      "fitness",
+      "travel",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 3359481,
+    "ctr": 0.097,
+    "cvr": 0.008,
+    "price_min": 154733,
+    "price_max": 254452,
+    "reliability_score": 0.817
+  },
+  {
+    "id": "creator_014",
+    "name": "Mia Ribeiro",
+    "tags": [
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "AR"
+    ],
+    "avg_views": 2297492,
+    "ctr": 0.1,
+    "cvr": 0.033,
+    "price_min": 10820,
+    "price_max": 96325,
+    "reliability_score": 0.597
+  },
+  {
+    "id": "creator_015",
+    "name": "Nathan Melo",
+    "tags": [
+      "music",
+      "fashion",
+      "gaming",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK"
+    ],
+    "avg_views": 2544482,
+    "ctr": 0.061,
+    "cvr": 0.069,
+    "price_min": 175859,
+    "price_max": 268634,
+    "reliability_score": 0.626
+  },
+  {
+    "id": "creator_016",
+    "name": "Rafael Taylor",
+    "tags": [
+      "tech",
+      "skincare",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US",
+      "PT"
+    ],
+    "avg_views": 1434294,
+    "ctr": 0.047,
+    "cvr": 0.08,
+    "price_min": 12418,
+    "price_max": 29740,
+    "reliability_score": 0.831
+  },
+  {
+    "id": "creator_017",
+    "name": "Marcos Lima",
+    "tags": [
+      "fintech",
+      "tech",
+      "fitness",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 3652336,
+    "ctr": 0.111,
+    "cvr": 0.077,
+    "price_min": 86960,
+    "price_max": 113361,
+    "reliability_score": 0.747
+  },
+  {
+    "id": "creator_018",
+    "name": "Emily Melo",
+    "tags": [
+      "fitness",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "AR",
+      "CO"
+    ],
+    "avg_views": 3597130,
+    "ctr": 0.041,
+    "cvr": 0.022,
+    "price_min": 282905,
+    "price_max": 369074,
+    "reliability_score": 0.706
+  },
+  {
+    "id": "creator_019",
+    "name": "André Cardoso",
+    "tags": [
+      "fintech",
+      "education",
+      "fashion",
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "BR"
+    ],
+    "avg_views": 670706,
+    "ctr": 0.008,
+    "cvr": 0.023,
+    "price_min": 67288,
+    "price_max": 125717,
+    "reliability_score": 0.613
+  },
+  {
+    "id": "creator_020",
+    "name": "Tatiana Melo",
+    "tags": [
+      "music",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 3572805,
+    "ctr": 0.075,
+    "cvr": 0.044,
+    "price_min": 351770,
+    "price_max": 416622,
+    "reliability_score": 0.645
+  },
+  {
+    "id": "creator_021",
+    "name": "William Barbosa",
+    "tags": [
+      "food",
+      "travel",
+      "fashion",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "ES",
+      "PT"
+    ],
+    "avg_views": 808809,
+    "ctr": 0.017,
+    "cvr": 0.004,
+    "price_min": 129291,
+    "price_max": 173823,
+    "reliability_score": 0.595
+  },
+  {
+    "id": "creator_022",
+    "name": "Charlotte Carvalho",
+    "tags": [
+      "tech",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "MX",
+      "US"
+    ],
+    "avg_views": 3991027,
+    "ctr": 0.067,
+    "cvr": 0.041,
+    "price_min": 156304,
+    "price_max": 181262,
+    "reliability_score": 0.984
+  },
+  {
+    "id": "creator_023",
+    "name": "Evelyn Martinez",
+    "tags": [
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "BR"
+    ],
+    "avg_views": 237447,
+    "ctr": 0.055,
+    "cvr": 0.07,
+    "price_min": 79945,
+    "price_max": 127804,
+    "reliability_score": 0.77
+  },
+  {
+    "id": "creator_024",
+    "name": "André Silva",
+    "tags": [
+      "travel",
+      "food",
+      "skincare",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "PT",
+      "US"
+    ],
+    "avg_views": 2978899,
+    "ctr": 0.083,
+    "cvr": 0.076,
+    "price_min": 325249,
+    "price_max": 420960,
+    "reliability_score": 0.594
+  },
+  {
+    "id": "creator_025",
+    "name": "Lucas Carvalho",
+    "tags": [
+      "tech",
+      "fintech",
+      "travel",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "BR",
+      "AR"
+    ],
+    "avg_views": 4050616,
+    "ctr": 0.022,
+    "cvr": 0.051,
+    "price_min": 49644,
+    "price_max": 148464,
+    "reliability_score": 0.514
+  },
+  {
+    "id": "creator_026",
+    "name": "Camila Melo",
+    "tags": [
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "BR",
+      "FR"
+    ],
+    "avg_views": 4497994,
+    "ctr": 0.044,
+    "cvr": 0.045,
+    "price_min": 22304,
+    "price_max": 101916,
+    "reliability_score": 0.66
+  },
+  {
+    "id": "creator_027",
+    "name": "Sophia Oliveira",
+    "tags": [
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "PT",
+      "UK"
+    ],
+    "avg_views": 3572918,
+    "ctr": 0.052,
+    "cvr": 0.054,
+    "price_min": 114825,
+    "price_max": 170561,
+    "reliability_score": 0.809
+  },
+  {
+    "id": "creator_028",
+    "name": "Chloe Williams",
+    "tags": [
+      "fintech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "DE",
+      "BR"
+    ],
+    "avg_views": 1911039,
+    "ctr": 0.131,
+    "cvr": 0.076,
+    "price_min": 87658,
+    "price_max": 127366,
+    "reliability_score": 0.835
+  },
+  {
+    "id": "creator_029",
+    "name": "Gustavo Ribeiro",
+    "tags": [
+      "music",
+      "skincare",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "PT",
+      "UK"
+    ],
+    "avg_views": 3609319,
+    "ctr": 0.1,
+    "cvr": 0.078,
+    "price_min": 32012,
+    "price_max": 89780,
+    "reliability_score": 0.678
+  },
+  {
+    "id": "creator_030",
+    "name": "Rodrigo Jones",
+    "tags": [
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "AR",
+      "ES"
+    ],
+    "avg_views": 430975,
+    "ctr": 0.092,
+    "cvr": 0.045,
+    "price_min": 58338,
+    "price_max": 141483,
+    "reliability_score": 0.511
+  },
+  {
+    "id": "creator_031",
+    "name": "Ethan Lima",
+    "tags": [
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "PT",
+      "BR"
+    ],
+    "avg_views": 1927162,
+    "ctr": 0.038,
+    "cvr": 0.062,
+    "price_min": 54377,
+    "price_max": 147756,
+    "reliability_score": 0.507
+  },
+  {
+    "id": "creator_032",
+    "name": "Tatiana Nascimento",
+    "tags": [
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK",
+      "AR"
+    ],
+    "avg_views": 2700657,
+    "ctr": 0.132,
+    "cvr": 0.056,
+    "price_min": 324842,
+    "price_max": 375158,
+    "reliability_score": 0.817
+  },
+  {
+    "id": "creator_033",
+    "name": "Raquel Johnson",
+    "tags": [
+      "fintech",
+      "fitness",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "DE",
+      "MX"
+    ],
+    "avg_views": 4346080,
+    "ctr": 0.018,
+    "cvr": 0.003,
+    "price_min": 33468,
+    "price_max": 84453,
+    "reliability_score": 0.78
+  },
+  {
+    "id": "creator_034",
+    "name": "Mariana Melo",
+    "tags": [
+      "skincare",
+      "fitness",
+      "fashion",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 4336024,
+    "ctr": 0.087,
+    "cvr": 0.066,
+    "price_min": 96036,
+    "price_max": 183713,
+    "reliability_score": 0.723
+  },
+  {
+    "id": "creator_035",
+    "name": "Olivia Martinez",
+    "tags": [
+      "fintech",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "PT"
+    ],
+    "avg_views": 641731,
+    "ctr": 0.086,
+    "cvr": 0.065,
+    "price_min": 83925,
+    "price_max": 175631,
+    "reliability_score": 0.707
+  },
+  {
+    "id": "creator_036",
+    "name": "Camila Martins",
+    "tags": [
+      "education",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "US",
+      "MX"
+    ],
+    "avg_views": 4817981,
+    "ctr": 0.013,
+    "cvr": 0.049,
+    "price_min": 150369,
+    "price_max": 201067,
+    "reliability_score": 0.574
+  },
+  {
+    "id": "creator_037",
+    "name": "Grace Ferreira",
+    "tags": [
+      "gaming",
+      "education",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "PT",
+      "DE"
+    ],
+    "avg_views": 2399289,
+    "ctr": 0.042,
+    "cvr": 0.022,
+    "price_min": 171610,
+    "price_max": 204841,
+    "reliability_score": 0.793
+  },
+  {
+    "id": "creator_038",
+    "name": "Mariana Martins",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 1788739,
+    "ctr": 0.087,
+    "cvr": 0.008,
+    "price_min": 237674,
+    "price_max": 326649,
+    "reliability_score": 0.754
+  },
+  {
+    "id": "creator_039",
+    "name": "Marcos Melo",
+    "tags": [
+      "fashion",
+      "gaming",
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "AR"
+    ],
+    "avg_views": 4465582,
+    "ctr": 0.053,
+    "cvr": 0.03,
+    "price_min": 226519,
+    "price_max": 242770,
+    "reliability_score": 0.869
+  },
+  {
+    "id": "creator_040",
+    "name": "Rafael Melo",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US"
+    ],
+    "avg_views": 2063412,
+    "ctr": 0.063,
+    "cvr": 0.042,
+    "price_min": 114378,
+    "price_max": 156333,
+    "reliability_score": 0.641
+  },
+  {
+    "id": "creator_041",
+    "name": "Benjamin Oliveira",
+    "tags": [
+      "music",
+      "travel",
+      "gaming",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 1677134,
+    "ctr": 0.144,
+    "cvr": 0.044,
+    "price_min": 37720,
+    "price_max": 92588,
+    "reliability_score": 0.759
+  },
+  {
+    "id": "creator_042",
+    "name": "Bruna Ferreira",
+    "tags": [
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "BR"
+    ],
+    "avg_views": 3071507,
+    "ctr": 0.101,
+    "cvr": 0.063,
+    "price_min": 323332,
+    "price_max": 341679,
+    "reliability_score": 0.599
+  },
+  {
+    "id": "creator_043",
+    "name": "Mateus Rodrigues",
+    "tags": [
+      "music",
+      "fintech",
+      "fashion",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US",
+      "AR"
+    ],
+    "avg_views": 4741183,
+    "ctr": 0.095,
+    "cvr": 0.06,
+    "price_min": 246360,
+    "price_max": 329560,
+    "reliability_score": 0.802
+  },
+  {
+    "id": "creator_044",
+    "name": "Liam Silva",
+    "tags": [
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 3149876,
+    "ctr": 0.137,
+    "cvr": 0.037,
+    "price_min": 152615,
+    "price_max": 181615,
+    "reliability_score": 0.735
+  },
+  {
+    "id": "creator_045",
+    "name": "Abigail Taylor",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "FR",
+      "BR"
+    ],
+    "avg_views": 2627683,
+    "ctr": 0.074,
+    "cvr": 0.056,
+    "price_min": 372435,
+    "price_max": 390133,
+    "reliability_score": 0.502
+  },
+  {
+    "id": "creator_046",
+    "name": "Michael Smith",
+    "tags": [
+      "fashion",
+      "travel",
+      "fintech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "PT"
+    ],
+    "avg_views": 4278179,
+    "ctr": 0.126,
+    "cvr": 0.039,
+    "price_min": 341474,
+    "price_max": 411826,
+    "reliability_score": 0.94
+  },
+  {
+    "id": "creator_047",
+    "name": "Felipe Anderson",
+    "tags": [
+      "fintech",
+      "education",
+      "food",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "AR"
+    ],
+    "avg_views": 814882,
+    "ctr": 0.044,
+    "cvr": 0.066,
+    "price_min": 386592,
+    "price_max": 423799,
+    "reliability_score": 0.788
+  },
+  {
+    "id": "creator_048",
+    "name": "Chloe Araújo",
+    "tags": [
+      "fashion",
+      "gaming",
+      "fintech",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "ES"
+    ],
+    "avg_views": 3253529,
+    "ctr": 0.15,
+    "cvr": 0.007,
+    "price_min": 172142,
+    "price_max": 220173,
+    "reliability_score": 0.828
+  },
+  {
+    "id": "creator_049",
+    "name": "Michael Martinez",
+    "tags": [
+      "music",
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 3996673,
+    "ctr": 0.093,
+    "cvr": 0.031,
+    "price_min": 344191,
+    "price_max": 403575,
+    "reliability_score": 0.814
+  },
+  {
+    "id": "creator_050",
+    "name": "William Lima",
+    "tags": [
+      "music",
+      "gaming",
+      "tech",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 1309042,
+    "ctr": 0.029,
+    "cvr": 0.047,
+    "price_min": 151889,
+    "price_max": 198799,
+    "reliability_score": 0.611
+  },
+  {
+    "id": "creator_051",
+    "name": "Liam Ribeiro",
+    "tags": [
+      "fintech",
+      "education",
+      "tech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "AR"
+    ],
+    "avg_views": 2734523,
+    "ctr": 0.088,
+    "cvr": 0.044,
+    "price_min": 158144,
+    "price_max": 175815,
+    "reliability_score": 0.778
+  },
+  {
+    "id": "creator_052",
+    "name": "Thiago Cardoso",
+    "tags": [
+      "tech",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "US",
+      "AR",
+      "MX"
+    ],
+    "avg_views": 2006512,
+    "ctr": 0.042,
+    "cvr": 0.067,
+    "price_min": 80373,
+    "price_max": 102661,
+    "reliability_score": 0.592
+  },
+  {
+    "id": "creator_053",
+    "name": "Priscila Silva",
+    "tags": [
+      "fintech",
+      "travel",
+      "music",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "US",
+      "UK",
+      "DE"
+    ],
+    "avg_views": 204909,
+    "ctr": 0.119,
+    "cvr": 0.039,
+    "price_min": 310734,
+    "price_max": 399568,
+    "reliability_score": 0.798
+  },
+  {
+    "id": "creator_054",
+    "name": "James Thomas",
+    "tags": [
+      "travel",
+      "fintech",
+      "fitness",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "CO",
+      "PT"
+    ],
+    "avg_views": 4555487,
+    "ctr": 0.005,
+    "cvr": 0.025,
+    "price_min": 361859,
+    "price_max": 424651,
+    "reliability_score": 0.724
+  },
+  {
+    "id": "creator_055",
+    "name": "Liam Johnson",
+    "tags": [
+      "gaming",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 4411922,
+    "ctr": 0.11,
+    "cvr": 0.025,
+    "price_min": 180422,
+    "price_max": 273375,
+    "reliability_score": 0.58
+  },
+  {
+    "id": "creator_056",
+    "name": "Rafael Costa",
+    "tags": [
+      "fintech",
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "ES"
+    ],
+    "avg_views": 4063042,
+    "ctr": 0.034,
+    "cvr": 0.056,
+    "price_min": 46713,
+    "price_max": 76382,
+    "reliability_score": 0.507
+  },
+  {
+    "id": "creator_057",
+    "name": "Mason Jones",
+    "tags": [
+      "fitness",
+      "education",
+      "travel",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "PT"
+    ],
+    "avg_views": 4027589,
+    "ctr": 0.121,
+    "cvr": 0.023,
+    "price_min": 144511,
+    "price_max": 180626,
+    "reliability_score": 0.572
+  },
+  {
+    "id": "creator_058",
+    "name": "James Thomas",
+    "tags": [
+      "fintech",
+      "fitness",
+      "tech",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 446817,
+    "ctr": 0.139,
+    "cvr": 0.013,
+    "price_min": 358526,
+    "price_max": 452601,
+    "reliability_score": 0.735
+  },
+  {
+    "id": "creator_059",
+    "name": "Grace Martins",
+    "tags": [
+      "gaming",
+      "skincare",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "CO"
+    ],
+    "avg_views": 2943094,
+    "ctr": 0.072,
+    "cvr": 0.017,
+    "price_min": 215939,
+    "price_max": 307257,
+    "reliability_score": 0.79
+  },
+  {
+    "id": "creator_060",
+    "name": "Mariana Costa",
+    "tags": [
+      "travel",
+      "fintech",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "CO",
+      "AR",
+      "BR"
+    ],
+    "avg_views": 2264217,
+    "ctr": 0.136,
+    "cvr": 0.044,
+    "price_min": 355613,
+    "price_max": 379970,
+    "reliability_score": 0.894
+  },
+  {
+    "id": "creator_061",
+    "name": "Renato Costa",
+    "tags": [
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "FR"
+    ],
+    "avg_views": 4207666,
+    "ctr": 0.015,
+    "cvr": 0.025,
+    "price_min": 268426,
+    "price_max": 315835,
+    "reliability_score": 0.818
+  },
+  {
+    "id": "creator_062",
+    "name": "Juliana Williams",
+    "tags": [
+      "education",
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "PT"
+    ],
+    "avg_views": 1950093,
+    "ctr": 0.078,
+    "cvr": 0.013,
+    "price_min": 102043,
+    "price_max": 190301,
+    "reliability_score": 0.855
+  },
+  {
+    "id": "creator_063",
+    "name": "Abigail Melo",
+    "tags": [
+      "skincare",
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "CO",
+      "BR"
+    ],
+    "avg_views": 1083352,
+    "ctr": 0.148,
+    "cvr": 0.044,
+    "price_min": 326283,
+    "price_max": 364401,
+    "reliability_score": 0.57
+  },
+  {
+    "id": "creator_064",
+    "name": "Leonardo Martinez",
+    "tags": [
+      "education",
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "US",
+      "BR"
+    ],
+    "avg_views": 2251185,
+    "ctr": 0.009,
+    "cvr": 0.079,
+    "price_min": 206005,
+    "price_max": 271205,
+    "reliability_score": 0.842
+  },
+  {
+    "id": "creator_065",
+    "name": "Chloe Anderson",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "AR"
+    ],
+    "avg_views": 4074709,
+    "ctr": 0.052,
+    "cvr": 0.006,
+    "price_min": 340814,
+    "price_max": 438357,
+    "reliability_score": 0.97
+  },
+  {
+    "id": "creator_066",
+    "name": "Nathan Jones",
+    "tags": [
+      "fitness",
+      "gaming",
+      "fashion",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 961750,
+    "ctr": 0.007,
+    "cvr": 0.032,
+    "price_min": 369352,
+    "price_max": 394300,
+    "reliability_score": 0.798
+  },
+  {
+    "id": "creator_067",
+    "name": "Mia Araújo",
+    "tags": [
+      "fintech",
+      "education",
+      "fitness",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "BR",
+      "DE"
+    ],
+    "avg_views": 1512046,
+    "ctr": 0.054,
+    "cvr": 0.042,
+    "price_min": 221371,
+    "price_max": 238500,
+    "reliability_score": 0.844
+  },
+  {
+    "id": "creator_068",
+    "name": "Carolina Anderson",
+    "tags": [
+      "tech",
+      "skincare",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "PT"
+    ],
+    "avg_views": 4230393,
+    "ctr": 0.126,
+    "cvr": 0.054,
+    "price_min": 268579,
+    "price_max": 349494,
+    "reliability_score": 0.9
+  },
+  {
+    "id": "creator_069",
+    "name": "Rodrigo Taylor",
+    "tags": [
+      "fashion",
+      "fitness",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "PT"
+    ],
+    "avg_views": 1464781,
+    "ctr": 0.062,
+    "cvr": 0.035,
+    "price_min": 60732,
+    "price_max": 99453,
+    "reliability_score": 0.565
+  },
+  {
+    "id": "creator_070",
+    "name": "Olivia Garcia",
+    "tags": [
+      "fintech",
+      "tech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 151655,
+    "ctr": 0.13,
+    "cvr": 0.073,
+    "price_min": 198191,
+    "price_max": 240199,
+    "reliability_score": 0.934
+  },
+  {
+    "id": "creator_071",
+    "name": "Charlotte Ferreira",
+    "tags": [
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 2481716,
+    "ctr": 0.074,
+    "cvr": 0.04,
+    "price_min": 182659,
+    "price_max": 261406,
+    "reliability_score": 0.538
+  },
+  {
+    "id": "creator_072",
+    "name": "Rafael Nascimento",
+    "tags": [
+      "gaming",
+      "fintech",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "ES"
+    ],
+    "avg_views": 4796348,
+    "ctr": 0.13,
+    "cvr": 0.017,
+    "price_min": 343781,
+    "price_max": 407747,
+    "reliability_score": 0.602
+  },
+  {
+    "id": "creator_073",
+    "name": "Harper Lima",
+    "tags": [
+      "tech",
+      "education",
+      "fashion",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "UK",
+      "BR"
+    ],
+    "avg_views": 4753961,
+    "ctr": 0.008,
+    "cvr": 0.071,
+    "price_min": 252572,
+    "price_max": 294912,
+    "reliability_score": 0.786
+  },
+  {
+    "id": "creator_074",
+    "name": "Pedro Martinez",
+    "tags": [
+      "skincare",
+      "fintech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "ES",
+      "UK"
+    ],
+    "avg_views": 382048,
+    "ctr": 0.144,
+    "cvr": 0.056,
+    "price_min": 283760,
+    "price_max": 324353,
+    "reliability_score": 0.63
+  },
+  {
+    "id": "creator_075",
+    "name": "Débora Smith",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "US",
+      "DE"
+    ],
+    "avg_views": 4276698,
+    "ctr": 0.131,
+    "cvr": 0.031,
+    "price_min": 109612,
+    "price_max": 208335,
+    "reliability_score": 0.844
+  },
+  {
+    "id": "creator_076",
+    "name": "Vinícius Carvalho",
+    "tags": [
+      "tech",
+      "food",
+      "education",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "FR",
+      "ES"
+    ],
+    "avg_views": 1702748,
+    "ctr": 0.125,
+    "cvr": 0.056,
+    "price_min": 242108,
+    "price_max": 326778,
+    "reliability_score": 0.585
+  },
+  {
+    "id": "creator_077",
+    "name": "Harper Costa",
+    "tags": [
+      "tech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "UK"
+    ],
+    "avg_views": 2083625,
+    "ctr": 0.146,
+    "cvr": 0.037,
+    "price_min": 316651,
+    "price_max": 340610,
+    "reliability_score": 0.769
+  },
+  {
+    "id": "creator_078",
+    "name": "Ryan Martinez",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US",
+      "MX"
+    ],
+    "avg_views": 4816938,
+    "ctr": 0.045,
+    "cvr": 0.05,
+    "price_min": 134516,
+    "price_max": 153666,
+    "reliability_score": 0.985
+  },
+  {
+    "id": "creator_079",
+    "name": "Mia Costa",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "BR",
+      "DE"
+    ],
+    "avg_views": 1066323,
+    "ctr": 0.078,
+    "cvr": 0.014,
+    "price_min": 351842,
+    "price_max": 378363,
+    "reliability_score": 0.556
+  },
+  {
+    "id": "creator_080",
+    "name": "Marcos Martinez",
+    "tags": [
+      "fintech",
+      "fitness",
+      "gaming",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "CO",
+      "MX"
+    ],
+    "avg_views": 2945802,
+    "ctr": 0.132,
+    "cvr": 0.061,
+    "price_min": 132762,
+    "price_max": 199349,
+    "reliability_score": 0.834
+  },
+  {
+    "id": "creator_081",
+    "name": "Pedro Oliveira",
+    "tags": [
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 144292,
+    "ctr": 0.044,
+    "cvr": 0.04,
+    "price_min": 70925,
+    "price_max": 87321,
+    "reliability_score": 0.587
+  },
+  {
+    "id": "creator_082",
+    "name": "Raquel Carvalho",
+    "tags": [
+      "fashion",
+      "fintech",
+      "travel",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 2419540,
+    "ctr": 0.062,
+    "cvr": 0.05,
+    "price_min": 185230,
+    "price_max": 240829,
+    "reliability_score": 0.847
+  },
+  {
+    "id": "creator_083",
+    "name": "Renato Nascimento",
+    "tags": [
+      "fitness",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "AR",
+      "US"
+    ],
+    "avg_views": 2340762,
+    "ctr": 0.015,
+    "cvr": 0.022,
+    "price_min": 294812,
+    "price_max": 376468,
+    "reliability_score": 0.695
+  },
+  {
+    "id": "creator_084",
+    "name": "Ava Garcia",
+    "tags": [
+      "education",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 4261443,
+    "ctr": 0.105,
+    "cvr": 0.032,
+    "price_min": 396927,
+    "price_max": 455951,
+    "reliability_score": 0.884
+  },
+  {
+    "id": "creator_085",
+    "name": "Ethan Rodrigues",
+    "tags": [
+      "skincare",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 2012462,
+    "ctr": 0.085,
+    "cvr": 0.009,
+    "price_min": 298750,
+    "price_max": 304028,
+    "reliability_score": 0.923
+  },
+  {
+    "id": "creator_086",
+    "name": "Gabriel Garcia",
+    "tags": [
+      "gaming",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "BR",
+      "US"
+    ],
+    "avg_views": 1591536,
+    "ctr": 0.053,
+    "cvr": 0.022,
+    "price_min": 247341,
+    "price_max": 274781,
+    "reliability_score": 0.835
+  },
+  {
+    "id": "creator_087",
+    "name": "Thiago Smith",
+    "tags": [
+      "music",
+      "fintech",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 1544085,
+    "ctr": 0.094,
+    "cvr": 0.035,
+    "price_min": 188689,
+    "price_max": 271780,
+    "reliability_score": 0.633
+  },
+  {
+    "id": "creator_088",
+    "name": "Jackson Lima",
+    "tags": [
+      "music",
+      "skincare",
+      "fashion",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US"
+    ],
+    "avg_views": 4150277,
+    "ctr": 0.094,
+    "cvr": 0.064,
+    "price_min": 255450,
+    "price_max": 264201,
+    "reliability_score": 0.91
+  },
+  {
+    "id": "creator_089",
+    "name": "Benjamin Ferreira",
+    "tags": [
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US",
+      "PT"
+    ],
+    "avg_views": 4327905,
+    "ctr": 0.114,
+    "cvr": 0.072,
+    "price_min": 268033,
+    "price_max": 351792,
+    "reliability_score": 0.928
+  },
+  {
+    "id": "creator_090",
+    "name": "Evelyn Ribeiro",
+    "tags": [
+      "education",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "PT"
+    ],
+    "avg_views": 1517821,
+    "ctr": 0.138,
+    "cvr": 0.044,
+    "price_min": 128357,
+    "price_max": 192296,
+    "reliability_score": 0.859
+  },
+  {
+    "id": "creator_091",
+    "name": "Gustavo Rodrigues",
+    "tags": [
+      "gaming",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "ES",
+      "FR"
+    ],
+    "avg_views": 637138,
+    "ctr": 0.061,
+    "cvr": 0.037,
+    "price_min": 358169,
+    "price_max": 426937,
+    "reliability_score": 0.59
+  },
+  {
+    "id": "creator_092",
+    "name": "Letícia Araújo",
+    "tags": [
+      "fintech",
+      "tech",
+      "music",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "BR",
+      "UK"
+    ],
+    "avg_views": 42846,
+    "ctr": 0.015,
+    "cvr": 0.069,
+    "price_min": 370061,
+    "price_max": 400989,
+    "reliability_score": 0.753
+  },
+  {
+    "id": "creator_093",
+    "name": "Alexander Santos",
+    "tags": [
+      "food",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "BR"
+    ],
+    "avg_views": 4560279,
+    "ctr": 0.007,
+    "cvr": 0.022,
+    "price_min": 363018,
+    "price_max": 439454,
+    "reliability_score": 0.68
+  },
+  {
+    "id": "creator_094",
+    "name": "Ryan Williams",
+    "tags": [
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK"
+    ],
+    "avg_views": 1428482,
+    "ctr": 0.065,
+    "cvr": 0.021,
+    "price_min": 196718,
+    "price_max": 215628,
+    "reliability_score": 0.676
+  },
+  {
+    "id": "creator_095",
+    "name": "Rodrigo Taylor",
+    "tags": [
+      "fashion",
+      "travel",
+      "education",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 254545,
+    "ctr": 0.07,
+    "cvr": 0.022,
+    "price_min": 348957,
+    "price_max": 381165,
+    "reliability_score": 0.537
+  },
+  {
+    "id": "creator_096",
+    "name": "Vinícius Nascimento",
+    "tags": [
+      "food",
+      "fintech",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "CO",
+      "BR"
+    ],
+    "avg_views": 1215052,
+    "ctr": 0.079,
+    "cvr": 0.031,
+    "price_min": 218036,
+    "price_max": 262634,
+    "reliability_score": 0.931
+  },
+  {
+    "id": "creator_097",
+    "name": "Abigail Lima",
+    "tags": [
+      "fintech",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "BR"
+    ],
+    "avg_views": 2434020,
+    "ctr": 0.067,
+    "cvr": 0.046,
+    "price_min": 15146,
+    "price_max": 74367,
+    "reliability_score": 0.902
+  },
+  {
+    "id": "creator_098",
+    "name": "Felipe Taylor",
+    "tags": [
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "US"
+    ],
+    "avg_views": 3399788,
+    "ctr": 0.091,
+    "cvr": 0.045,
+    "price_min": 211287,
+    "price_max": 240336,
+    "reliability_score": 0.669
+  },
+  {
+    "id": "creator_099",
+    "name": "Aiden Pereira",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 1495798,
+    "ctr": 0.024,
+    "cvr": 0.051,
+    "price_min": 103496,
+    "price_max": 132562,
+    "reliability_score": 0.614
+  },
+  {
+    "id": "creator_100",
+    "name": "Benjamin Oliveira",
+    "tags": [
+      "fashion",
+      "fitness",
+      "education",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "UK",
+      "FR"
+    ],
+    "avg_views": 4937035,
+    "ctr": 0.116,
+    "cvr": 0.037,
+    "price_min": 86265,
+    "price_max": 164824,
+    "reliability_score": 0.819
+  },
+  {
+    "id": "creator_101",
+    "name": "Abigail Garcia",
+    "tags": [
+      "education",
+      "travel",
+      "fintech",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "DE"
+    ],
+    "avg_views": 364577,
+    "ctr": 0.112,
+    "cvr": 0.041,
+    "price_min": 146603,
+    "price_max": 238282,
+    "reliability_score": 0.853
+  },
+  {
+    "id": "creator_102",
+    "name": "Leonardo Oliveira",
+    "tags": [
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "ES"
+    ],
+    "avg_views": 1768961,
+    "ctr": 0.036,
+    "cvr": 0.049,
+    "price_min": 397063,
+    "price_max": 409914,
+    "reliability_score": 0.766
+  },
+  {
+    "id": "creator_103",
+    "name": "William Melo",
+    "tags": [
+      "education",
+      "travel",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US",
+      "MX"
+    ],
+    "avg_views": 3519507,
+    "ctr": 0.129,
+    "cvr": 0.041,
+    "price_min": 316018,
+    "price_max": 381914,
+    "reliability_score": 0.888
+  },
+  {
+    "id": "creator_104",
+    "name": "Aiden Cardoso",
+    "tags": [
+      "travel",
+      "fintech",
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "BR",
+      "UK"
+    ],
+    "avg_views": 4951452,
+    "ctr": 0.148,
+    "cvr": 0.044,
+    "price_min": 198657,
+    "price_max": 270812,
+    "reliability_score": 0.762
+  },
+  {
+    "id": "creator_105",
+    "name": "Evelyn Carvalho",
+    "tags": [
+      "fashion",
+      "education",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "CO"
+    ],
+    "avg_views": 4973205,
+    "ctr": 0.137,
+    "cvr": 0.057,
+    "price_min": 246785,
+    "price_max": 318954,
+    "reliability_score": 0.796
+  },
+  {
+    "id": "creator_106",
+    "name": "Priscila Thomas",
+    "tags": [
+      "fintech",
+      "fitness",
+      "skincare",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "BR"
+    ],
+    "avg_views": 1385760,
+    "ctr": 0.091,
+    "cvr": 0.033,
+    "price_min": 125761,
+    "price_max": 158234,
+    "reliability_score": 0.601
+  },
+  {
+    "id": "creator_107",
+    "name": "Fernanda Barbosa",
+    "tags": [
+      "music",
+      "fintech",
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "UK"
+    ],
+    "avg_views": 258402,
+    "ctr": 0.117,
+    "cvr": 0.004,
+    "price_min": 310620,
+    "price_max": 350984,
+    "reliability_score": 0.628
+  },
+  {
+    "id": "creator_108",
+    "name": "Aiden Santos",
+    "tags": [
+      "skincare",
+      "fitness",
+      "fintech",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "ES"
+    ],
+    "avg_views": 2880712,
+    "ctr": 0.098,
+    "cvr": 0.012,
+    "price_min": 357676,
+    "price_max": 446601,
+    "reliability_score": 0.86
+  },
+  {
+    "id": "creator_109",
+    "name": "Diego Barbosa",
+    "tags": [
+      "fashion",
+      "travel",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "PT",
+      "ES"
+    ],
+    "avg_views": 1588460,
+    "ctr": 0.076,
+    "cvr": 0.052,
+    "price_min": 330629,
+    "price_max": 341123,
+    "reliability_score": 0.705
+  },
+  {
+    "id": "creator_110",
+    "name": "Rafael Ferreira",
+    "tags": [
+      "gaming",
+      "music",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "BR",
+      "DE"
+    ],
+    "avg_views": 2052676,
+    "ctr": 0.007,
+    "cvr": 0.079,
+    "price_min": 130062,
+    "price_max": 223027,
+    "reliability_score": 0.743
+  },
+  {
+    "id": "creator_111",
+    "name": "Juliana Silva",
+    "tags": [
+      "music",
+      "gaming",
+      "fitness",
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "ES"
+    ],
+    "avg_views": 3779799,
+    "ctr": 0.101,
+    "cvr": 0.004,
+    "price_min": 96585,
+    "price_max": 165817,
+    "reliability_score": 0.596
+  },
+  {
+    "id": "creator_112",
+    "name": "Priscila Carvalho",
+    "tags": [
+      "travel",
+      "fintech",
+      "fitness",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "UK"
+    ],
+    "avg_views": 3087694,
+    "ctr": 0.136,
+    "cvr": 0.007,
+    "price_min": 213427,
+    "price_max": 282605,
+    "reliability_score": 0.936
+  },
+  {
+    "id": "creator_113",
+    "name": "Charlotte Johnson",
+    "tags": [
+      "fintech",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 3179042,
+    "ctr": 0.059,
+    "cvr": 0.023,
+    "price_min": 365327,
+    "price_max": 378838,
+    "reliability_score": 0.803
+  },
+  {
+    "id": "creator_114",
+    "name": "Rodrigo Jones",
+    "tags": [
+      "gaming",
+      "fintech",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "PT"
+    ],
+    "avg_views": 1974666,
+    "ctr": 0.05,
+    "cvr": 0.037,
+    "price_min": 27784,
+    "price_max": 95179,
+    "reliability_score": 0.623
+  },
+  {
+    "id": "creator_115",
+    "name": "Mariana Ribeiro",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "AR"
+    ],
+    "avg_views": 1280284,
+    "ctr": 0.083,
+    "cvr": 0.037,
+    "price_min": 381170,
+    "price_max": 472122,
+    "reliability_score": 0.864
+  },
+  {
+    "id": "creator_116",
+    "name": "Madison Carvalho",
+    "tags": [
+      "fintech",
+      "fitness",
+      "travel",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "FR",
+      "ES",
+      "PT"
+    ],
+    "avg_views": 1662650,
+    "ctr": 0.071,
+    "cvr": 0.034,
+    "price_min": 168230,
+    "price_max": 228313,
+    "reliability_score": 0.71
+  },
+  {
+    "id": "creator_117",
+    "name": "Rafael Santos",
+    "tags": [
+      "fintech",
+      "fashion",
+      "fitness"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "DE",
+      "MX"
+    ],
+    "avg_views": 1317567,
+    "ctr": 0.037,
+    "cvr": 0.073,
+    "price_min": 141212,
+    "price_max": 236979,
+    "reliability_score": 0.583
+  },
+  {
+    "id": "creator_118",
+    "name": "Camila Nascimento",
+    "tags": [
+      "fintech",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK",
+      "ES"
+    ],
+    "avg_views": 1996001,
+    "ctr": 0.087,
+    "cvr": 0.016,
+    "price_min": 263476,
+    "price_max": 353445,
+    "reliability_score": 0.93
+  },
+  {
+    "id": "creator_119",
+    "name": "Harper Johnson",
+    "tags": [
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "FR"
+    ],
+    "avg_views": 709103,
+    "ctr": 0.03,
+    "cvr": 0.072,
+    "price_min": 128408,
+    "price_max": 146560,
+    "reliability_score": 0.687
+  },
+  {
+    "id": "creator_120",
+    "name": "Gabriel Anderson",
+    "tags": [
+      "travel",
+      "fintech",
+      "fashion",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "AR"
+    ],
+    "avg_views": 3971090,
+    "ctr": 0.101,
+    "cvr": 0.019,
+    "price_min": 204213,
+    "price_max": 301132,
+    "reliability_score": 0.79
+  },
+  {
+    "id": "creator_121",
+    "name": "Débora Martinez",
+    "tags": [
+      "travel",
+      "skincare",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "US"
+    ],
+    "avg_views": 172463,
+    "ctr": 0.128,
+    "cvr": 0.07,
+    "price_min": 25875,
+    "price_max": 36798,
+    "reliability_score": 0.672
+  },
+  {
+    "id": "creator_122",
+    "name": "Gabriel Cardoso",
+    "tags": [
+      "fitness",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 3848639,
+    "ctr": 0.115,
+    "cvr": 0.074,
+    "price_min": 359689,
+    "price_max": 410090,
+    "reliability_score": 0.848
+  },
+  {
+    "id": "creator_123",
+    "name": "Abigail Almeida",
+    "tags": [
+      "tech",
+      "fitness",
+      "food",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "US",
+      "MX"
+    ],
+    "avg_views": 3552795,
+    "ctr": 0.052,
+    "cvr": 0.021,
+    "price_min": 116934,
+    "price_max": 212075,
+    "reliability_score": 0.773
+  },
+  {
+    "id": "creator_124",
+    "name": "Fernanda Rodrigues",
+    "tags": [
+      "travel",
+      "fintech",
+      "gaming",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 25,
+        "max": 34
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "FR"
+    ],
+    "avg_views": 3378571,
+    "ctr": 0.147,
+    "cvr": 0.072,
+    "price_min": 25106,
+    "price_max": 31174,
+    "reliability_score": 0.775
+  },
+  {
+    "id": "creator_125",
+    "name": "Liam Santos",
+    "tags": [
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "UK"
+    ],
+    "avg_views": 4173068,
+    "ctr": 0.024,
+    "cvr": 0.004,
+    "price_min": 109844,
+    "price_max": 182098,
+    "reliability_score": 0.541
+  },
+  {
+    "id": "creator_126",
+    "name": "Chloe Garcia",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 4100164,
+    "ctr": 0.12,
+    "cvr": 0.008,
+    "price_min": 48280,
+    "price_max": 98603,
+    "reliability_score": 0.786
+  },
+  {
+    "id": "creator_127",
+    "name": "Carolina Melo",
+    "tags": [
+      "food",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "AR"
+    ],
+    "avg_views": 311724,
+    "ctr": 0.13,
+    "cvr": 0.075,
+    "price_min": 373521,
+    "price_max": 411617,
+    "reliability_score": 0.883
+  },
+  {
+    "id": "creator_128",
+    "name": "Chloe Souza",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US"
+    ],
+    "avg_views": 1730089,
+    "ctr": 0.095,
+    "cvr": 0.01,
+    "price_min": 13032,
+    "price_max": 56537,
+    "reliability_score": 0.583
+  },
+  {
+    "id": "creator_129",
+    "name": "Benjamin Ribeiro",
+    "tags": [
+      "music",
+      "fintech",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "ES",
+      "FR"
+    ],
+    "avg_views": 3852681,
+    "ctr": 0.039,
+    "cvr": 0.03,
+    "price_min": 245446,
+    "price_max": 338084,
+    "reliability_score": 0.83
+  },
+  {
+    "id": "creator_130",
+    "name": "Grace Carvalho",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "UK"
+    ],
+    "avg_views": 3925422,
+    "ctr": 0.016,
+    "cvr": 0.063,
+    "price_min": 73650,
+    "price_max": 169352,
+    "reliability_score": 0.861
+  },
+  {
+    "id": "creator_131",
+    "name": "Beatriz Cardoso",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "MX",
+      "BR"
+    ],
+    "avg_views": 702125,
+    "ctr": 0.03,
+    "cvr": 0.04,
+    "price_min": 390052,
+    "price_max": 408833,
+    "reliability_score": 0.844
+  },
+  {
+    "id": "creator_132",
+    "name": "Débora Almeida",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "ES"
+    ],
+    "avg_views": 4055823,
+    "ctr": 0.049,
+    "cvr": 0.012,
+    "price_min": 255456,
+    "price_max": 341169,
+    "reliability_score": 0.698
+  },
+  {
+    "id": "creator_133",
+    "name": "Nathan Oliveira",
+    "tags": [
+      "music",
+      "skincare"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "UK"
+    ],
+    "avg_views": 3521254,
+    "ctr": 0.078,
+    "cvr": 0.037,
+    "price_min": 56455,
+    "price_max": 107186,
+    "reliability_score": 0.838
+  },
+  {
+    "id": "creator_134",
+    "name": "Bruna Gomes",
+    "tags": [
+      "fitness",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "CO",
+      "ES"
+    ],
+    "avg_views": 4825151,
+    "ctr": 0.015,
+    "cvr": 0.065,
+    "price_min": 351409,
+    "price_max": 400652,
+    "reliability_score": 0.975
+  },
+  {
+    "id": "creator_135",
+    "name": "Isabela Johnson",
+    "tags": [
+      "food",
+      "fintech",
+      "travel"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK",
+      "US"
+    ],
+    "avg_views": 171107,
+    "ctr": 0.013,
+    "cvr": 0.055,
+    "price_min": 310752,
+    "price_max": 358191,
+    "reliability_score": 0.731
+  },
+  {
+    "id": "creator_136",
+    "name": "Gabriel Thomas",
+    "tags": [
+      "fashion",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 3727103,
+    "ctr": 0.045,
+    "cvr": 0.053,
+    "price_min": 236736,
+    "price_max": 278030,
+    "reliability_score": 0.884
+  },
+  {
+    "id": "creator_137",
+    "name": "Zoe Taylor",
+    "tags": [
+      "fitness",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "UK",
+      "FR"
+    ],
+    "avg_views": 1390322,
+    "ctr": 0.142,
+    "cvr": 0.014,
+    "price_min": 293810,
+    "price_max": 342831,
+    "reliability_score": 0.855
+  },
+  {
+    "id": "creator_138",
+    "name": "Tatiana Martins",
+    "tags": [
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "PT",
+      "FR"
+    ],
+    "avg_views": 4705402,
+    "ctr": 0.099,
+    "cvr": 0.035,
+    "price_min": 191611,
+    "price_max": 283325,
+    "reliability_score": 0.683
+  },
+  {
+    "id": "creator_139",
+    "name": "Olivia Williams",
+    "tags": [
+      "fintech",
+      "gaming"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "ES"
+    ],
+    "avg_views": 1225378,
+    "ctr": 0.148,
+    "cvr": 0.051,
+    "price_min": 61379,
+    "price_max": 129531,
+    "reliability_score": 0.57
+  },
+  {
+    "id": "creator_140",
+    "name": "Bruna Barbosa",
+    "tags": [
+      "music",
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 3761465,
+    "ctr": 0.086,
+    "cvr": 0.051,
+    "price_min": 84250,
+    "price_max": 106930,
+    "reliability_score": 0.722
+  },
+  {
+    "id": "creator_141",
+    "name": "Gustavo Araújo",
+    "tags": [
+      "gaming",
+      "fitness",
+      "music"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "AR",
+      "UK"
+    ],
+    "avg_views": 4596976,
+    "ctr": 0.049,
+    "cvr": 0.05,
+    "price_min": 190293,
+    "price_max": 231796,
+    "reliability_score": 0.734
+  },
+  {
+    "id": "creator_142",
+    "name": "André Ferreira",
+    "tags": [
+      "tech"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "US",
+      "DE"
+    ],
+    "avg_views": 2910646,
+    "ctr": 0.054,
+    "cvr": 0.062,
+    "price_min": 70159,
+    "price_max": 122951,
+    "reliability_score": 0.77
+  },
+  {
+    "id": "creator_143",
+    "name": "Carolina Johnson",
+    "tags": [
+      "fintech",
+      "fitness",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 13,
+        "max": 17
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "ES",
+      "BR"
+    ],
+    "avg_views": 3931989,
+    "ctr": 0.024,
+    "cvr": 0.033,
+    "price_min": 396142,
+    "price_max": 408394,
+    "reliability_score": 0.683
+  },
+  {
+    "id": "creator_144",
+    "name": "Rafael Jones",
+    "tags": [
+      "travel",
+      "tech",
+      "fitness",
+      "education"
+    ],
+    "audience_age": [
+      {
+        "min": 45,
+        "max": 54
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "AR",
+      "FR"
+    ],
+    "avg_views": 3346833,
+    "ctr": 0.115,
+    "cvr": 0.004,
+    "price_min": 38499,
+    "price_max": 120911,
+    "reliability_score": 0.812
+  },
+  {
+    "id": "creator_145",
+    "name": "Madison Barbosa",
+    "tags": [
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "PT",
+      "US",
+      "UK"
+    ],
+    "avg_views": 442710,
+    "ctr": 0.13,
+    "cvr": 0.008,
+    "price_min": 376757,
+    "price_max": 395381,
+    "reliability_score": 0.956
+  },
+  {
+    "id": "creator_146",
+    "name": "Bruna Barbosa",
+    "tags": [
+      "gaming",
+      "fintech",
+      "music",
+      "food"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "CO"
+    ],
+    "avg_views": 2500535,
+    "ctr": 0.136,
+    "cvr": 0.039,
+    "price_min": 169812,
+    "price_max": 205968,
+    "reliability_score": 0.956
+  },
+  {
+    "id": "creator_147",
+    "name": "Logan Barbosa",
+    "tags": [
+      "tech",
+      "travel",
+      "fitness",
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 3667047,
+    "ctr": 0.141,
+    "cvr": 0.015,
+    "price_min": 158160,
+    "price_max": 253222,
+    "reliability_score": 0.642
+  },
+  {
+    "id": "creator_148",
+    "name": "Sophia Gomes",
+    "tags": [
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 35,
+        "max": 44
+      }
+    ],
+    "audience_location": [
+      "BR"
+    ],
+    "avg_views": 2075468,
+    "ctr": 0.009,
+    "cvr": 0.056,
+    "price_min": 144632,
+    "price_max": 174833,
+    "reliability_score": 0.775
+  },
+  {
+    "id": "creator_149",
+    "name": "Harper Thomas",
+    "tags": [
+      "tech",
+      "fintech",
+      "fashion"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 25,
+        "max": 34
+      }
+    ],
+    "audience_location": [
+      "BR",
+      "UK",
+      "CO"
+    ],
+    "avg_views": 2363488,
+    "ctr": 0.137,
+    "cvr": 0.055,
+    "price_min": 279293,
+    "price_max": 329770,
+    "reliability_score": 0.609
+  },
+  {
+    "id": "creator_150",
+    "name": "Lucas Araújo",
+    "tags": [
+      "fintech"
+    ],
+    "audience_age": [
+      {
+        "min": 18,
+        "max": 24
+      },
+      {
+        "min": 13,
+        "max": 17
+      }
+    ],
+    "audience_location": [
+      "US"
+    ],
+    "avg_views": 819075,
+    "ctr": 0.024,
+    "cvr": 0.003,
+    "price_min": 356827,
+    "price_max": 435615,
+    "reliability_score": 0.651
+  }
+]

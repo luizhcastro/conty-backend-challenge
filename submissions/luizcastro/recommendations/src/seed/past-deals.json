@@ -1,0 +1,562 @@
+[
+  {
+    "id": "deal_001",
+    "creator_id": "creator_082",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": true,
+    "performance_score": 0.34
+  },
+  {
+    "id": "deal_002",
+    "creator_id": "creator_031",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.7
+  },
+  {
+    "id": "deal_003",
+    "creator_id": "creator_135",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.71
+  },
+  {
+    "id": "deal_004",
+    "creator_id": "creator_136",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.93
+  },
+  {
+    "id": "deal_005",
+    "creator_id": "creator_012",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": false,
+    "performance_score": 0.55
+  },
+  {
+    "id": "deal_006",
+    "creator_id": "creator_047",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.87
+  },
+  {
+    "id": "deal_007",
+    "creator_id": "creator_093",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.91
+  },
+  {
+    "id": "deal_008",
+    "creator_id": "creator_065",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.45
+  },
+  {
+    "id": "deal_009",
+    "creator_id": "creator_049",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.34
+  },
+  {
+    "id": "deal_010",
+    "creator_id": "creator_144",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.74
+  },
+  {
+    "id": "deal_011",
+    "creator_id": "creator_056",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.38
+  },
+  {
+    "id": "deal_012",
+    "creator_id": "creator_091",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.69
+  },
+  {
+    "id": "deal_013",
+    "creator_id": "creator_023",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.4
+  },
+  {
+    "id": "deal_014",
+    "creator_id": "creator_065",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.42
+  },
+  {
+    "id": "deal_015",
+    "creator_id": "creator_065",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.82
+  },
+  {
+    "id": "deal_016",
+    "creator_id": "creator_133",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": true,
+    "performance_score": 0.37
+  },
+  {
+    "id": "deal_017",
+    "creator_id": "creator_047",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.83
+  },
+  {
+    "id": "deal_018",
+    "creator_id": "creator_127",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.8
+  },
+  {
+    "id": "deal_019",
+    "creator_id": "creator_120",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.48
+  },
+  {
+    "id": "deal_020",
+    "creator_id": "creator_087",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": false,
+    "performance_score": 0.38
+  },
+  {
+    "id": "deal_021",
+    "creator_id": "creator_032",
+    "campaign_id": "campaign_001",
+    "delivered_on_time": true,
+    "performance_score": 0.94
+  },
+  {
+    "id": "deal_022",
+    "creator_id": "creator_113",
+    "campaign_id": "campaign_001",
+    "delivered_on_time": true,
+    "performance_score": 0.31
+  },
+  {
+    "id": "deal_023",
+    "creator_id": "creator_098",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.98
+  },
+  {
+    "id": "deal_024",
+    "creator_id": "creator_081",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": false,
+    "performance_score": 0.72
+  },
+  {
+    "id": "deal_025",
+    "creator_id": "creator_140",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.72
+  },
+  {
+    "id": "deal_026",
+    "creator_id": "creator_023",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": false,
+    "performance_score": 0.55
+  },
+  {
+    "id": "deal_027",
+    "creator_id": "creator_061",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": false,
+    "performance_score": 0.42
+  },
+  {
+    "id": "deal_028",
+    "creator_id": "creator_128",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": false,
+    "performance_score": 0.64
+  },
+  {
+    "id": "deal_029",
+    "creator_id": "creator_120",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.63
+  },
+  {
+    "id": "deal_030",
+    "creator_id": "creator_033",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.79
+  },
+  {
+    "id": "deal_031",
+    "creator_id": "creator_005",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": false,
+    "performance_score": 0.93
+  },
+  {
+    "id": "deal_032",
+    "creator_id": "creator_070",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.97
+  },
+  {
+    "id": "deal_033",
+    "creator_id": "creator_053",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.61
+  },
+  {
+    "id": "deal_034",
+    "creator_id": "creator_016",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.43
+  },
+  {
+    "id": "deal_035",
+    "creator_id": "creator_039",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.57
+  },
+  {
+    "id": "deal_036",
+    "creator_id": "creator_097",
+    "campaign_id": "campaign_001",
+    "delivered_on_time": true,
+    "performance_score": 0.55
+  },
+  {
+    "id": "deal_037",
+    "creator_id": "creator_139",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.96
+  },
+  {
+    "id": "deal_038",
+    "creator_id": "creator_020",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.5
+  },
+  {
+    "id": "deal_039",
+    "creator_id": "creator_016",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.42
+  },
+  {
+    "id": "deal_040",
+    "creator_id": "creator_092",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.76
+  },
+  {
+    "id": "deal_041",
+    "creator_id": "creator_038",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": false,
+    "performance_score": 0.54
+  },
+  {
+    "id": "deal_042",
+    "creator_id": "creator_148",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.64
+  },
+  {
+    "id": "deal_043",
+    "creator_id": "creator_045",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.7
+  },
+  {
+    "id": "deal_044",
+    "creator_id": "creator_055",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.39
+  },
+  {
+    "id": "deal_045",
+    "creator_id": "creator_017",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": false,
+    "performance_score": 0.31
+  },
+  {
+    "id": "deal_046",
+    "creator_id": "creator_007",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": false,
+    "performance_score": 0.54
+  },
+  {
+    "id": "deal_047",
+    "creator_id": "creator_072",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.84
+  },
+  {
+    "id": "deal_048",
+    "creator_id": "creator_031",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.81
+  },
+  {
+    "id": "deal_049",
+    "creator_id": "creator_043",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.83
+  },
+  {
+    "id": "deal_050",
+    "creator_id": "creator_098",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.94
+  },
+  {
+    "id": "deal_051",
+    "creator_id": "creator_076",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": true,
+    "performance_score": 0.51
+  },
+  {
+    "id": "deal_052",
+    "creator_id": "creator_116",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": false,
+    "performance_score": 0.68
+  },
+  {
+    "id": "deal_053",
+    "creator_id": "creator_021",
+    "campaign_id": "campaign_008",
+    "delivered_on_time": true,
+    "performance_score": 0.44
+  },
+  {
+    "id": "deal_054",
+    "creator_id": "creator_039",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.46
+  },
+  {
+    "id": "deal_055",
+    "creator_id": "creator_022",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.62
+  },
+  {
+    "id": "deal_056",
+    "creator_id": "creator_015",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.88
+  },
+  {
+    "id": "deal_057",
+    "creator_id": "creator_015",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.42
+  },
+  {
+    "id": "deal_058",
+    "creator_id": "creator_022",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": false,
+    "performance_score": 0.86
+  },
+  {
+    "id": "deal_059",
+    "creator_id": "creator_065",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.96
+  },
+  {
+    "id": "deal_060",
+    "creator_id": "creator_095",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.83
+  },
+  {
+    "id": "deal_061",
+    "creator_id": "creator_032",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": true,
+    "performance_score": 0.57
+  },
+  {
+    "id": "deal_062",
+    "creator_id": "creator_127",
+    "campaign_id": "campaign_004",
+    "delivered_on_time": true,
+    "performance_score": 0.36
+  },
+  {
+    "id": "deal_063",
+    "creator_id": "creator_029",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": true,
+    "performance_score": 0.44
+  },
+  {
+    "id": "deal_064",
+    "creator_id": "creator_020",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": true,
+    "performance_score": 0.51
+  },
+  {
+    "id": "deal_065",
+    "creator_id": "creator_068",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": false,
+    "performance_score": 0.81
+  },
+  {
+    "id": "deal_066",
+    "creator_id": "creator_032",
+    "campaign_id": "campaign_001",
+    "delivered_on_time": true,
+    "performance_score": 0.9
+  },
+  {
+    "id": "deal_067",
+    "creator_id": "creator_048",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": false,
+    "performance_score": 0.31
+  },
+  {
+    "id": "deal_068",
+    "creator_id": "creator_110",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": false,
+    "performance_score": 0.87
+  },
+  {
+    "id": "deal_069",
+    "creator_id": "creator_104",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": false,
+    "performance_score": 0.37
+  },
+  {
+    "id": "deal_070",
+    "creator_id": "creator_005",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.42
+  },
+  {
+    "id": "deal_071",
+    "creator_id": "creator_063",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": true,
+    "performance_score": 0.89
+  },
+  {
+    "id": "deal_072",
+    "creator_id": "creator_092",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.48
+  },
+  {
+    "id": "deal_073",
+    "creator_id": "creator_061",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.5
+  },
+  {
+    "id": "deal_074",
+    "creator_id": "creator_128",
+    "campaign_id": "campaign_003",
+    "delivered_on_time": true,
+    "performance_score": 0.97
+  },
+  {
+    "id": "deal_075",
+    "creator_id": "creator_025",
+    "campaign_id": "campaign_001",
+    "delivered_on_time": true,
+    "performance_score": 0.45
+  },
+  {
+    "id": "deal_076",
+    "creator_id": "creator_029",
+    "campaign_id": "campaign_005",
+    "delivered_on_time": false,
+    "performance_score": 0.87
+  },
+  {
+    "id": "deal_077",
+    "creator_id": "creator_074",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.83
+  },
+  {
+    "id": "deal_078",
+    "creator_id": "creator_145",
+    "campaign_id": "campaign_002",
+    "delivered_on_time": true,
+    "performance_score": 0.4
+  },
+  {
+    "id": "deal_079",
+    "creator_id": "creator_038",
+    "campaign_id": "campaign_006",
+    "delivered_on_time": true,
+    "performance_score": 0.67
+  },
+  {
+    "id": "deal_080",
+    "creator_id": "creator_026",
+    "campaign_id": "campaign_007",
+    "delivered_on_time": false,
+    "performance_score": 0.43
+  }
+]

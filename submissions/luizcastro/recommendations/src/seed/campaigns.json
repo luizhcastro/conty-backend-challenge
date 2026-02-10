@@ -1,0 +1,224 @@
+[
+  {
+    "id": "campaign_001",
+    "brand": "Fintech Growth",
+    "goal": "installs",
+    "tags_required": [
+      "fintech",
+      "tech"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 18,
+          "max": 24
+        },
+        {
+          "min": 25,
+          "max": 34
+        }
+      ],
+      "country": [
+        "BR",
+        "MX"
+      ]
+    },
+    "budget_cents": 5000000,
+    "deadline": "2026-03-11"
+  },
+  {
+    "id": "campaign_002",
+    "brand": "Fitness App Launch",
+    "goal": "installs",
+    "tags_required": [
+      "fitness"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 18,
+          "max": 24
+        },
+        {
+          "min": 25,
+          "max": 34
+        }
+      ],
+      "country": [
+        "BR",
+        "US"
+      ]
+    },
+    "budget_cents": 3000000,
+    "deadline": "2026-03-02"
+  },
+  {
+    "id": "campaign_003",
+    "brand": "D2C Skincare Brasil",
+    "goal": "conversions",
+    "tags_required": [
+      "skincare",
+      "fashion"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 25,
+          "max": 34
+        },
+        {
+          "min": 35,
+          "max": 44
+        }
+      ],
+      "country": [
+        "BR",
+        "PT"
+      ]
+    },
+    "budget_cents": 7000000,
+    "deadline": "2026-03-26"
+  },
+  {
+    "id": "campaign_004",
+    "brand": "Gaming Awareness Blitz",
+    "goal": "awareness",
+    "tags_required": [
+      "gaming",
+      "tech"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 13,
+          "max": 17
+        },
+        {
+          "min": 18,
+          "max": 24
+        }
+      ],
+      "country": [
+        "BR",
+        "US",
+        "MX"
+      ]
+    },
+    "budget_cents": 10000000,
+    "deadline": "2026-04-10"
+  },
+  {
+    "id": "campaign_005",
+    "brand": "Food Delivery Expansion",
+    "goal": "conversions",
+    "tags_required": [
+      "food"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 18,
+          "max": 24
+        },
+        {
+          "min": 25,
+          "max": 34
+        }
+      ],
+      "country": [
+        "BR",
+        "AR",
+        "CO"
+      ]
+    },
+    "budget_cents": 4000000,
+    "deadline": "2026-03-06"
+  },
+  {
+    "id": "campaign_006",
+    "brand": "Travel Engagement",
+    "goal": "engagement",
+    "tags_required": [
+      "travel"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 25,
+          "max": 34
+        },
+        {
+          "min": 35,
+          "max": 44
+        }
+      ],
+      "country": [
+        "BR",
+        "PT",
+        "ES"
+      ]
+    },
+    "budget_cents": 2000000,
+    "deadline": "2026-03-16"
+  },
+  {
+    "id": "campaign_007",
+    "brand": "EdTech Platform Launch",
+    "goal": "installs",
+    "tags_required": [
+      "education",
+      "tech"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 18,
+          "max": 24
+        },
+        {
+          "min": 25,
+          "max": 34
+        }
+      ],
+      "country": [
+        "BR",
+        "US",
+        "UK"
+      ]
+    },
+    "budget_cents": 6000000,
+    "deadline": "2026-03-21"
+  },
+  {
+    "id": "campaign_008",
+    "brand": "Fashion Brand Awareness",
+    "goal": "awareness",
+    "tags_required": [
+      "fashion",
+      "skincare"
+    ],
+    "audience_target": {
+      "age_range": [
+        {
+          "min": 18,
+          "max": 24
+        },
+        {
+          "min": 25,
+          "max": 34
+        },
+        {
+          "min": 35,
+          "max": 44
+        }
+      ],
+      "country": [
+        "BR",
+        "FR",
+        "DE"
+      ]
+    },
+    "budget_cents": 8000000,
+    "deadline": "2026-03-31"
+  }
+]
